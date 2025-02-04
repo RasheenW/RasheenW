@@ -4,9 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/RasheenW/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/RasheenW/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/RasheenW/ticket-lifecycle)
-
 <h2> Social Media:</h2>
 
 [<img align="left" alt="Rasheen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
