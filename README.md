@@ -5,6 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/RasheenW/osticket-prereqs)
   - [osTicket: osTicket Post-Installation configuration](https://github.com/RasheenW/post-install-config)
+  - [osTicket: Lifestyle examples] 
 - <b> Active Directory
   - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/RasheenW/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-?tab=readme-ov-file#on-premises-active-directory-deployed-in-the-cloud-azure)
 <h2> Social Media:</h2>
