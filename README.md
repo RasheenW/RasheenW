@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle examples](https://github.com/RasheenW/Ticket-Lifecycles)
 - <b> Active Directory
   - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/RasheenW/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-?tab=readme-ov-file#on-premises-active-directory-deployed-in-the-cloud-azure)
+  - [Group Policy & Account Management](https://github.com/RasheenW/Group-Policy-and-Account-Management)
 <h2> Social Media:</h2>
 
 [<img align="left" alt="Rasheen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
